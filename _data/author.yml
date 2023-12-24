@@ -1,23 +1,23 @@
-name: Sharad Raj
-dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+name: Teodoro Garcia
+dp: https://avatars.githubusercontent.com/u/66981441?v=4
 description: "
   <p>
-    Developed by Sharad Raj who lives in India building useful things for the world.
+    Hello, I am Teodoro, I am a software developer who loves tech,linux, and working in the terminal.
   </p>
   <br/>
   <p>
-    You should follow him on <a href='https://github.com/sharadcodes' target='_blank'>Github</a>
+    You should follow him on <a href='https://github.com/sardine-bro' target='_blank'>Github</a>
   </P>
 "
-email: dev_sharad@outlook.com
+email: teodoro.garcia11@outlook.com
 contact:
   - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
+    url: https://www.linkedin.com/in/teodoro-garcia-iii
   - title: github
-    url: https://github.com/sharadcodes
+    url: https://github.com/sardine-bro
   - title: twitter
-    url: https://twitter.com/iamsharadraj
-  - title: dev
-    url: https://dev.to/sharadcodes
+    url: https://twitter.com/gitForker
+  # - title: dev
+  #   url: https://dev.to/sharadcodes
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: mailto:teodoro.garcia11@outlook.com

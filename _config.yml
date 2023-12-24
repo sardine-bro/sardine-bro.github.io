@@ -1,12 +1,12 @@
-title: Jekyll Material You
+title: Teo's Code Site
 markdown: kramdown
 # url: ""
 # baseurl: "/jekyll-theme-material-you"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Teodoro Garcia
+  email: teodoro.garcia11@outlook.com
 
 plugins:
   - jemoji
