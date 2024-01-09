@@ -6,8 +6,8 @@ description: "
   </p>
   <br/>
   <p>
-    You should follow me on <a href='https://github.com/sardine-bro' target='_blank'>Github</a>
-  </P>
+    You should follow me on <a href='https://github.com/sardine-bro' target='_blank'>Github</a> and buy my book <a href='https://read.amazon.ca/kp/embed?asin=B0BZMD5G28&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DCEWRV49Z63N35EBK82K' target='_blank'>here</a>
+  </p>
 "
 email: teodoro.garcia11@outlook.com
 contact:
@@ -17,7 +17,7 @@ contact:
     url: https://github.com/sardine-bro
   - title: twitter
     url: https://twitter.com/gitForker
-  # - title: dev
-  #   url: https://dev.to/sharadcodes
+  - title: medium
+    url: https://medium.com/@tedtke514
   - title: email
     url: mailto:teodoro.garcia11@outlook.com
